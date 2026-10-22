@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Company Name\Company Name.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Company Name\3-days-tanzania-short-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\4-days-mount-meru-climb.php"/>
+  <file name="C:\xampp\htdocs\Company Name\5-days-tanzania-wildlife-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\6-days-kilimanjaro-climb-via-machame-route.php"/>
+  <file name="C:\xampp\htdocs\Company Name\6-days-kilimanjaro-climb-via-marangu-route.php"/>
+  <file name="C:\xampp\htdocs\Company Name\6-days-tanzania-memorable-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\7-days-kilimanjaro-climb-lemosho-route.php"/>
+  <file name="C:\xampp\htdocs\Company Name\8days-7nights-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\8-Days-Lemosho-Route.php"/>
+  <file name="C:\xampp\htdocs\Company Name\8-days-tanzania-holiday-a-very-complete-safari-wildebeest-migration.php"/>
+  <file name="C:\xampp\htdocs\Company Name\10-days-tanzania-safari-all-northern-parks-in-1-trip-wildebeest-migration.php"/>
+  <file name="C:\xampp\htdocs\Company Name\12-day-honeymoon-tanzania-and-zanzibar.php"/>
+  <file name="C:\xampp\htdocs\Company Name\18Days-Tanzania-Safari-and-Zanzibar-Vacation.php"/>
+  <file name="C:\xampp\htdocs\Company Name\about-us.php"/>
+  <file name="C:\xampp\htdocs\Company Name\arusha-national-park-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\best-time-for-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\best-time-to-climb-kilimanjaro.php"/>
+  <file name="C:\xampp\htdocs\Company Name\contact-form.php"/>
+  <file name="C:\xampp\htdocs\Company Name\contact-us.php"/>
+  <file name="C:\xampp\htdocs\Company Name\contact-usss.php"/>
+  <file name="C:\xampp\htdocs\Company Name\hot-air-balloon-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\index.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kikuletwa-hot-spring-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kilimanjaro-climbing-itineraries.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kilimanjaro-guides-and-porters.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kilimanjaro-healthy-and-safety.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kilimanjaro-packing-list.php"/>
+  <file name="C:\xampp\htdocs\Company Name\kilimanjaro-safari-and-zanzibar-combine.php"/>
+  <file name="C:\xampp\htdocs\Company Name\lake-chala-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\lake-manyara-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\maasai-village-cultural-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\materuni-waterfalls-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\mt-meru-trekking-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\mt-oldonyo-lengai-trekking.php"/>
+  <file name="C:\xampp\htdocs\Company Name\ngorongoro-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\our-booking-terms-and-conditions.php"/>
+  <file name="C:\xampp\htdocs\Company Name\passport-and-visas-requirements.php"/>
+  <file name="C:\xampp\htdocs\Company Name\photography-safari-tanzania.php"/>
+  <file name="C:\xampp\htdocs\Company Name\safari-packing-list.php"/>
+  <file name="C:\xampp\htdocs\Company Name\Short-And-Sweet-Tanzania-Safari-Two-Nearby-Parks.php"/>
+  <file name="C:\xampp\htdocs\Company Name\tanzania-safari-itineraries.php"/>
+  <file name="C:\xampp\htdocs\Company Name\tarangire-national-park-day-tour.php"/>
+  <file name="C:\xampp\htdocs\Company Name\travel-insurance.php"/>
+  <file name="C:\xampp\htdocs\Company Name\usambara-mt-trekking.php"/>
+  <file name="C:\xampp\htdocs\Company Name\walking-tanzania-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\why-climbing-mt-kilimanjaro.php"/>
+  <file name="C:\xampp\htdocs\Company Name\wildbeest-migration-safari.php"/>
+  <file name="C:\xampp\htdocs\Company Name\zanzibar-holiday.php"/>
+  <file name="C:\xampp\htdocs\Company Name\3-days-mount-meru-climbing-momela-route.php"/>
+  <file name="C:\xampp\htdocs\Company Name\plugins\footer.php"/>
+  <file name="C:\xampp\htdocs\Company Name\plugins\header.php"/>
+  <file name="C:\xampp\htdocs\Company Name\assets\css\style.css"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Company Name\assets\js\isotope.js">
+   <todo pos="7;3395" name="TODO console.error"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <lasttime value="1725625968"/>
+</project>
