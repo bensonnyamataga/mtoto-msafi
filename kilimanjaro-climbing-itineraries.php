@@ -270,7 +270,7 @@
 <div class="jarga-safari-bottom"><div class="jarga-safari-price"><small>Starting from</small><strong>$1,890</strong></div>
 <a class="jarga-safari-btn" href="7-Days-Rongai-Route">EXPLORE <span class="sr-only">Climb Kilimanjaro 7 Days Rongai Route</span></a></div></div></article></div>
 <div class="jarga-safari-actions"><a class="jarga-safari-main-cta" href="contact-us">PLAN YOUR KILIMANJARO CLIMB <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
-<p class="jarga-safari-note">Displayed prices are from the original Jarga Tours climbing itineraries; confirm availability and final pricing before booking.</p></div>
+
 </div>
   <!-- JARGA TOURS: KILIMANJARO FEATURE BANNER -->
   <section class="jarga-kili-feature" aria-labelledby="jarga-safari-feature-title">

@@ -68,14 +68,124 @@ Moshi, Kilimanjaro - Tanzania.</a></li>
           </div>
         
           <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
-<script>
-var wa_btnSetting = {"btnColor":"#364A10","ctaText":"Need Help ? Chat with us","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"left","whatsAppNumber":"+255 741 312 874","welcomeMessage":"Hello and welcome to Jarga Tours! Thank you for reaching out. How can we assist you with your travel plans today?","zIndex":999999,"btnColorScheme":"light"};
-var wa_widgetSetting = {"title":"Jarga Tours","subTitle":"Typically replies in a day","headerBackgroundColor":"#364A10","headerColorScheme":"light","greetingText":"Contact us on WhatsApp! Begin a conversation by clicking the button below.","ctaText":"Start Chat","btnColor":"#364A10","cornerRadius":40,"welcomeMessage":"Hello","btnColorScheme":"light","brandImage":"","darkHeaderColorScheme":{"title":"#333333","subTitle":"#4F4F4F"}};
-window.onload = () => {
-_waEmbed(wa_btnSetting, wa_widgetSetting);
-};
-</script>
-      
+
+
+
+
+          
+<!-- JARGA TOURS - COMPACT FLOATING WHATSAPP -->
+
+<style>
+  a.jarga-wa-widget {
+    position: fixed !important;
+    bottom: 22px !important;
+    left: 20px !important;
+    right: auto !important;
+    top: auto !important;
+
+    z-index: 99999;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+
+    width: max-content !important;
+    max-width: calc(100vw - 40px);
+    height: auto !important;
+    min-height: 54px;
+
+    padding: 6px 17px 6px 6px;
+    margin: 0 !important;
+
+    background: #ffffff !important;
+    border: 1px solid #e8e8e2;
+    border-radius: 50px;
+
+    color: #344D0E !important;
+    text-decoration: none !important;
+    font-family: inherit;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.14);
+    transition: transform 0.25s ease;
+  }
+
+  a.jarga-wa-widget:hover {
+    transform: translateY(-3px);
+    color: #344D0E !important;
+  }
+
+  .jarga-wa-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 42px;
+    height: 42px;
+    flex: 0 0 42px;
+
+    background: #25D366;
+    color: #ffffff;
+    border-radius: 50%;
+  }
+
+  .jarga-wa-icon i {
+    font-size: 24px;
+    line-height: 1;
+  }
+
+  .jarga-wa-label {
+    display: inline-block;
+    width: auto;
+    color: #344D0E;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.3;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 767px) {
+    a.jarga-wa-widget {
+      left: 12px !important;
+      bottom: 15px !important;
+      gap: 8px;
+      min-height: 48px;
+      padding: 5px 12px 5px 5px;
+    }
+
+    .jarga-wa-icon {
+      width: 38px;
+      height: 38px;
+      flex-basis: 38px;
+    }
+
+    .jarga-wa-icon i {
+      font-size: 22px;
+    }
+
+    .jarga-wa-label {
+      font-size: 11px;
+    }
+  }
+</style>
+
+<a
+  class="jarga-wa-widget"
+  href="https://wa.me/255741312874?text=Hello%20Jarga%20Tours%2C%20I%20would%20like%20to%20plan%20a%20safari."
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with Our Travel Expert on WhatsApp"
+>
+  <span class="jarga-wa-icon">
+    <i class="fab fa-whatsapp" aria-hidden="true"></i>
+  </span>
+
+  <span class="jarga-wa-label">
+    Chat with Our Travel Expert
+  </span>
+</a>
+
+<!-- END FLOATING WHATSAPP -->
+
 
          
 <div class="col-md-6 col-xl-3">
